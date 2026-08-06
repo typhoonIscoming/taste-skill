@@ -1,3 +1,4 @@
+![查看说明文档](https://zhuanlan.zhihu.com/p/2035483979973964214)
 <p align="center">
   <img src="assets/readme-banner.webp" alt="Taste Skill - Anti-slop Agent Skills for premium frontends" width="100%" />
 </p>
